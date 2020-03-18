@@ -8,6 +8,7 @@ namespace SimpleAsp.Models
     public class Movie
     {
         // add more here later
+        public int MovieId { get; set; }
 
     }
 }
